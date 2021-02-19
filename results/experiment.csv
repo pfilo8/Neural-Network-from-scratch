@@ -1,0 +1,22 @@
+model,layer_1_size,layer_2_size,train_acc,test_acc
+<class 'models.NeuralNetworkNormal'>,100,100,0.89722,0.8797
+<class 'models.NeuralNetworkNormal'>,200,100,0.91314,0.8928
+<class 'models.NeuralNetworkNormal'>,300,100,0.91414,0.8932
+<class 'models.NeuralNetworkNormal'>,300,200,0.95564,0.912
+<class 'models.NeuralNetworkNormal'>,500,100,0.923,0.8947
+<class 'models.NeuralNetworkNormal'>,500,200,0.95988,0.9029
+<class 'models.NeuralNetworkNormal'>,500,300,0.9675,0.906
+<class 'models.NeuralNetworkNormalScaled'>,100,100,0.9526,0.9481
+<class 'models.NeuralNetworkNormalScaled'>,200,100,0.95318,0.9458
+<class 'models.NeuralNetworkNormalScaled'>,300,100,0.96292,0.9571
+<class 'models.NeuralNetworkNormalScaled'>,300,200,0.97048,0.9659
+<class 'models.NeuralNetworkNormalScaled'>,500,100,0.97464,0.9656
+<class 'models.NeuralNetworkNormalScaled'>,500,200,0.96948,0.9608
+<class 'models.NeuralNetworkNormalScaled'>,500,300,0.97728,0.9672
+<class 'models.NeuralNetworkUniform'>,100,100,0.94586,0.9296
+<class 'models.NeuralNetworkUniform'>,200,100,0.95704,0.9346
+<class 'models.NeuralNetworkUniform'>,300,100,0.9617,0.9356
+<class 'models.NeuralNetworkUniform'>,300,200,0.98234,0.9356
+<class 'models.NeuralNetworkUniform'>,500,100,0.95444,0.9278
+<class 'models.NeuralNetworkUniform'>,500,200,0.97416,0.9323
+<class 'models.NeuralNetworkUniform'>,500,300,0.9909,0.9342
